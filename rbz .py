@@ -1,3 +1,4 @@
+ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 import streamlit as st
 import pandas as pd
 import time
