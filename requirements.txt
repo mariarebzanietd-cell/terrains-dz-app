@@ -1,9 +1,7 @@
-streamlit
+streamlit>=1.33.0
 pandas
 pytesseract
 Pillow
 PyPDF2
 spacy
 langdetect
-https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.7.0/fr_core_news_sm-3.7.0-py3-none-any.whl
-streamlit>=1.49,<2
